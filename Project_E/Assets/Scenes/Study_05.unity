@@ -286,7 +286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spawn
   targetPrefab: {fileID: 1252949843403732582, guid: 3c637cfad900a724ea7fee0366f45729, type: 3}
-  spawnPosition: {x: 5, y: 10, z: 0}
+  spawnPosition: {x: 0, y: 7, z: 0}
 --- !u!4 &473495806
 Transform:
   m_ObjectHideFlags: 0
